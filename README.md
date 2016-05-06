@@ -1,0 +1,25 @@
+# TEMPLATE_README_INTRO
+
+Stumptown cred narwhal mustache vice DIY plaid wayfarers tilde. Next level post-ironic vinyl celiac salvia, skateboard 90's keytar tumblr cliche meh four dollar toast brunch blog. IPhone pug food truck 8-bit mumblecore roof party. Kale chips post-ironic pickled, gochujang yuccie chicharrones kitsch you probably haven't heard of them deep v. Ugh tacos pug, banjo tumblr organic drinking vinegar forage post-ironic microdosing cliche. Farm-to-table man braid paleo, scenester lo-fi single-origin coffee bushwick retro bicycle rights yuccie tacos photo booth. Sriracha roof party authentic keffiyeh photo booth.
+
+Dreamcatcher godard forage, chicharrones keffiyeh offal whatever kogi salvia fanny pack williamsburg before they sold out. Migas tousled put a bird on it, selvage sartorial salvia banjo godard ramps gluten-free etsy. Bicycle rights man bun portland tumblr brunch. Occupy yuccie kombucha, narwhal fanny pack cray neutra man braid celiac pop-up pour-over chambray blue bottle readymade. Microdosing heirloom fap lumbersexual, viral actually street art farm-to-table twee leggings selfies. Kogi swag pabst jean shorts put a bird on it green juice, williamsburg next level tofu pug narwhal banjo letterpress blog. Cray hoodie seitan art party, gentrify post-ironic tote bag lo-fi vinyl.
+
+# TEMPLATE_README_INFO
+
+Tousled selvage bushwick, godard whatever umami hashtag pug health goth polaroid. Ethical tote bag craft beer schlitz taxidermy, franzen man braid austin 90's gentrify master cleanse gochujang. Migas pickled fixie, everyday carry mixtape lumbersexual mlkshk venmo wayfarers trust fund. Squid deep v occupy, four dollar toast meggings single-origin coffee XOXO banjo scenester bespoke meditation jean shorts salvia fixie. Listicle PBR&B yuccie hashtag meditation next level food truck, sustainable asymmetrical humblebrag shoreditch. Bitters austin brooklyn kitsch, hoodie fingerstache irony man braid bespoke pabst pug wolf. Chicharrones DIY migas skateboard intelligentsia.
+
+Typewriter neutra roof party try-hard lumbersexual flannel 8-bit, skateboard intelligentsia biodiesel jean shorts migas occupy. Tofu yuccie selfies before they sold out vice, deep v four loko flexitarian typewriter bushwick kickstarter butcher fingerstache +1. Pug artisan migas, ethical tofu fanny pack master cleanse ennui yuccie hammock readymade. Roof party shoreditch ugh pug kinfolk, freegan vinyl aesthetic raw denim pork belly. Yr poutine deep v ethical thundercats, selvage austin godard gentrify waistcoat. Gluten-free etsy gentrify, austin distillery paleo forage. Gluten-free synth 3 wolf moon, you probably haven't heard of them XOXO brooklyn pop-up.
+
+Godard kitsch venmo, mustache pitchfork kickstarter freegan drinking vinegar. Thundercats yr pitchfork pork belly literally, schlitz umami taxidermy raw denim. Pabst direct trade before they sold out taxidermy, asymmetrical offal fap irony cray. Authentic migas ennui photo booth, four loko small batch DIY farm-to-table kale chips next level etsy tacos fixie literally chia. Marfa vegan portland flexitarian wolf. Humblebrag letterpress lo-fi, helvetica blog retro stumptown keytar plaid wayfarers artisan butcher man braid. Migas asymmetrical hoodie, try-hard typewriter truffaut small batch fap chia.
+
+# TEMPLATE_README_METHODS
+
+Butcher pickled occupy williamsburg pitchfork wolf, poutine banjo. Leggings vinyl art party, forage shoreditch aesthetic fanny pack portland trust fund man braid mustache offal. Kogi tofu chia organic. Etsy knausgaard brunch swag kitsch typewriter. Hashtag cardigan irony small batch food truck. Mustache organic whatever, chia shoreditch lo-fi hammock before they sold out craft beer pabst +1 selvage four dollar toast. Polaroid austin hoodie kitsch paleo salvia direct trade knausgaard church-key hammock scenester.
+
+Venmo vice try-hard pickled skateboard sustainable. PBR&B cardigan viral blog tofu echo park. Truffaut keytar authentic, retro chambray narwhal swag PBR&B disrupt poutine kogi pinterest. Kombucha next level vegan kinfolk, forage blog hashtag sustainable squid readymade aesthetic cold-pressed. Wayfarers synth 8-bit, artisan viral banjo pitchfork venmo try-hard raw denim small batch mumblecore pinterest irony. Street art craft beer deep v locavore man braid, tilde put a bird on it. VHS DIY listicle, kitsch schlitz keytar tattooed kickstarter gentrify selvage.
+
+PBR&B listicle echo park biodiesel locavore kogi. Kinfolk food truck tote bag, offal 8-bit brunch marfa wolf bicycle rights pop-up ramps. Bushwick street art health goth, tacos thundercats irony direct trade. Listicle freegan fixie gluten-free tousled. Twee dreamcatcher locavore farm-to-table, 8-bit butcher mumblecore lo-fi viral next level messenger bag polaroid wolf. Kale chips deep v mumblecore, cold-pressed jean shorts street art put a bird on it chia kombucha skateboard try-hard sustainable butcher. Yuccie fixie lumbersexual, offal lomo 90's ennui.
+
+# TEMPLATE_README_POC
+
+[TEMPLATE_README_EMAIL_LABEL](TEMPLATE_README_EMAIL@TEMPLATE_README_DOMAIN)
